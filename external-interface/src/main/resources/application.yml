@@ -1,0 +1,7 @@
+platform:
+  server:
+    url: http://127.0.0.1:8080
+
+server:
+  port: 8081
+  shutdown: graceful
